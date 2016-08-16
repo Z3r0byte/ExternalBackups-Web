@@ -3,6 +3,9 @@
 The server side of the ExternalBackups Plugin for Bukkit/Spigot. [Download Plugin](https://www.spigotmc.org/resources/externalbackups.27917/)
 
 
+**Note: this project works, but is still WIP!**
+
+
 **Requirements:**
 
  - A php5 server
@@ -34,6 +37,8 @@ Configure the mysql settings.
  - Change `$servername`to the ip address / url of your mysql server.
  - Change `$databasename` to the name of your database.
  - Change `$username` to your mysql username and `$password` to your mysql password
+
+
 
 
 
